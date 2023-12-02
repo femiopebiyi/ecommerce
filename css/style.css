@@ -119,9 +119,8 @@ header{
         font-size: 18px;
         font-weight: 700;
         line-height: 1;
-        transition: transform 200ms, background 200ms;
-    
-        
+        transition: transform 201ms, background 201ms;
+
 }
 
 .to-cart:hover {
